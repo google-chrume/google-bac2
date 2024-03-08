@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-<ModulePrefs title="google.com" />
+<ModulePrefs title="new" />
 <Content type="html"><![CDATA[
 
 <!DOCTYPE html>
 
 <html lang="en-us">
-<head><meta http-equiv="Content-Security-Policy" content="google.com"/>
+<head><meta http-equiv="Content-Security-Policy" content="new"/>
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>google.com</title>
